@@ -14,10 +14,15 @@
 
 ## 🛠️ **Características Principales**  
 1. **Tienda en Línea**: Acceso a nuestro catálogo con opciones de entrega nacional e internacional.  
-2. **Suscripciones Digitales**: Planes mensuales/anuales para contenido exclusivo.  
-3. **Merchandising**: Productos relacionados como accesorios y ediciones especiales.  
-4. **Programa de Fidelización**: Gana puntos por cada compra y canjéalos por recompensas.  
-5. **Atención al Cliente**: Soporte vía redes sociales y chat directo en nuestra plataforma.  
+2. **Suscripciones Digitales**: Planes mensuales/anuales para contenido exclusivo.   
+3. **Programa de Fidelización**: Gana puntos por cada compra y canjéalos por recompensas.  
+4. **Atención al Cliente**: Soporte vía redes sociales y chat directo en nuestra plataforma.  
+
+---
+
+## 🌐 **Visita Nuestra Página Web**  
+¡Conoce más sobre nosotros y explora todo nuestro catálogo en nuestra página de Wix!  
+[Visita ManwhaLand aquí](https://lyzjimenezmathews.wixsite.com/manwhaland)  
 
 ---
 
@@ -40,14 +45,21 @@
 ## 💸 **Modelo de Ingresos**  
 - Ventas de copias físicas.  
 - Suscripciones digitales exclusivas.  
-- Merchandising relacionado.  
 - Colaboraciones y convenios con editoriales.  
+
+---
+
+## 📊 **Documentos de Planeación Estratégica**  
+Explora nuestros recursos y modelos de negocio:  
+- [Lean Startup Canvas](https://drive.google.com/file/d/1OPKx8AmLpMz98wcmTaKZeXKUoXqeQO9b/view?usp=share_link)  
+- [Business Model Canvas]([https://tu-link-aqui.com/business-model-canvas](https://drive.google.com/file/d/1ZdyWXScHmHos__w7UPPvsIPFjwHxGbAj/view?usp=sharing))  
+- [Otros documentos - MANWHALAND DRIVE](https://drive.google.com/drive/folders/1wlP8pkQrkJlbAEBmzBIySXTc8AMkjuIZ?usp=sharing)
+- [Otros documentos - MANWHALAND PPT PRESENTACION](https://www.canva.com/design/DAGXob9-ZOU/VjTbQ4IVlnj3Z0JAfJQHsA/edit?utm_content=DAGXob9-ZOU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
 ## 🚀 **Canales de Venta y Comunicación**  
 - **Tienda en Línea**: Plataforma principal para compras y suscripciones.  
-- **Redes Sociales**: Instagram, Twitter, Facebook para conectar con nuestra comunidad.  
 - **Colaboraciones**: Tiendas de cómics y librerías para mayor alcance.  
 
 ---
@@ -66,7 +78,6 @@
 - Marketing y manejo de redes sociales.  
 - Curación de contenido y actualización de catálogo.  
 
-**¿Interesado? Contáctanos en [correo@manwhaland.com](mailto:correo@manwhaland.com).**  
 
 ---
 
