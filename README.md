@@ -1,11 +1,11 @@
 # Proyecto Final
 # ManwhaLand 🌟  
-**ManwhaLand** es una plataforma dedicada a los aficionados del manhwa y manhua, ofreciendo una experiencia única de compra de copias físicas y acceso digital exclusivo. Nuestro objetivo es conectar a los fanáticos con las mejores historias, ediciones limitadas y productos coleccionables directamente desde los paises asiaticos.  
+**ManwhaLand** es una plataforma dedicada a los aficionados del manhwa, ofreciendo una experiencia única de compra de copias físicas y acceso digital exclusivo. Nuestro objetivo es conectar a los fanáticos con las mejores historias, ediciones limitadas y productos coleccionables directamente desde los paises asiaticos.  
 
 ---
 
 ## 🎯 **Propuesta de Valor**  
-- Amplia oferta de manhwa y manhua en físico y digital.  
+- Amplia oferta de manhwa en físico y digital.  
 - Posibilidad de adquirir ediciones limitadas y productos coleccionables.   
 - Experiencia de compra sencilla con descuentos y beneficios exclusivos.  
 
@@ -13,8 +13,7 @@
 
 ## 🛠️ **Características Principales**  
 1. **Tienda en Línea**: Acceso a nuestro catálogo con opciones de entrega nacional e internacional.  
-2. **Suscripciones Digitales**: Planes mensuales/anuales para contenido exclusivo.   
-3. **Atención al Cliente**: Soporte vía redes sociales y chat directo en nuestra plataforma.  
+2. **Atención al Cliente**: Soporte vía redes sociales y chat directo en nuestra plataforma.  
 
 ---
 
@@ -27,7 +26,7 @@
 ## 📦 **Actividades y Recursos Clave**  
 - Gestión de inventario y actualización constante del catálogo.  
 - Marketing y promoción en redes sociales.  
-- Negociación y relaciones con editoriales y distribuidores de manhwa/manhua.  
+- Negociación y relaciones con editoriales y distribuidores de manhwa.  
 - Espacio de almacenamiento para inventarios físicos.  
 
 ---
