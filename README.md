@@ -32,10 +32,10 @@
 ---
 
 ## 🤝 **Socios Clave**  
-- Editoriales y distribuidores en Corea y China.  
+- Editoriales y distribuidores en Corea.  
 - Plataformas de envío y logística.  
 - Tiendas de cultura pop y cómics.  
-- Influencers y comunidades de fanáticos del manhwa y manhua.  
+- Influencers y comunidades de fanáticos del manhwa.  
 
 ---
 
@@ -65,7 +65,7 @@ Explora nuestros recursos y modelos de negocio:
 ---
 
 ## 📈 **Estructura de Costos**  
-- Costos de adquisición de manhwa y manhua.  
+- Costos de adquisición de manhwa.  
 - Gastos de almacenamiento y logística.  
 - Desarrollo y mantenimiento de la plataforma web.  
 - Marketing y publicidad digital.  
@@ -83,7 +83,7 @@ Explora nuestros recursos y modelos de negocio:
 
 ## 🛤️ **Próximos Pasos**  
 - Integrar una función de recomendaciones personalizadas con inteligencia artificial.  
-- Expandir la oferta de manhua y agregar traducciones propias.  
+- Expandir la oferta de manwha y agregar traducciones propias.  
 - Lanzar una app móvil para mejorar la experiencia del usuario.  
 
 ---
